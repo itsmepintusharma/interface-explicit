@@ -1,0 +1,7 @@
+E:\tutorial and training\Projects\Interface_Explicit\Interface_Explicit\bin\Debug\Interface_Explicit.exe.config
+E:\tutorial and training\Projects\Interface_Explicit\Interface_Explicit\bin\Debug\Interface_Explicit.exe
+E:\tutorial and training\Projects\Interface_Explicit\Interface_Explicit\bin\Debug\Interface_Explicit.pdb
+E:\tutorial and training\Projects\Interface_Explicit\Interface_Explicit\obj\Debug\Interface_Explicit.csprojAssemblyReference.cache
+E:\tutorial and training\Projects\Interface_Explicit\Interface_Explicit\obj\Debug\Interface_Explicit.csproj.CoreCompileInputs.cache
+E:\tutorial and training\Projects\Interface_Explicit\Interface_Explicit\obj\Debug\Interface_Explicit.exe
+E:\tutorial and training\Projects\Interface_Explicit\Interface_Explicit\obj\Debug\Interface_Explicit.pdb
